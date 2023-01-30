@@ -1,0 +1,42 @@
+body {
+    background-color: #EEEEEE;
+    text-align: center;
+    font-family: 'Inter Tight', sans-serif;
+}
+
+h1 {
+    font-size: 86px;
+    font-weight: bolder;
+    margin: 30px auto;
+}
+
+h2 {
+    font-size: 50px;
+    width: 70%;
+    margin: auto;
+}
+
+img {
+    width: 150px;
+}
+
+.main-section {
+    margin: auto;
+    margin-top: 4%;
+}
+
+label, input, button {
+    display: block;
+    margin: auto;
+    font-family: inherit;
+    font-size: 20px;
+    margin-bottom: 25px;
+}
+
+input, button {
+    width: 250px;
+}
+
+.city-temp {
+    margin-top: 7%;
+}
